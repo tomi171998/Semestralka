@@ -45,16 +45,9 @@ div.index_bg > img{
 }
 
 div.index_form > h1{
-    display: inline-block;
-    width: 100%;
     font-size: 60px;
     padding: 80px 0;
     color: #ff6a38;
-}
-
-div.index_form > h1 > p{
-    display: inline-block;
-    font-weight: 100;
 }
 
 .main_form > button{
@@ -69,10 +62,6 @@ div.index_form > h1 > p{
 
 .main_form > p > a{
     color: #ff6a38;
-}
-
-.main_form > button > a{
-    color: black;
 }
 
 .index_form > a{
@@ -111,8 +100,9 @@ div.index_form > h1 > p{
         display: inline-block;
         width: 100%;
         font-size: 60px;
-        padding: 15px 0;
+        padding: 35px 0;
         color: #ff6a38;
+
     }
 }
 
